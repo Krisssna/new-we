@@ -1,34 +1,33 @@
 * HOME
 home__social
-https://www.linkedin.com/
-https://dribbble.com/
-https://github.com/
+https://www.linkedin.com/in/krishna-niraula-7429b2125/
+https://www.youtube.com/@sankhatro
+https://github.com/Krisssna
 
 home__description
-High level experience in web design and development knowledge, producing quality work.
+Hi! I am Krishna.
 
 
 * ABOUT
 about__description
-Web developer, with extensive knowledge and years of experience, working in web technologies and Ui / Ux design, delivering quality work.
+Hi! I am Krishna. I have an experience in managing construction sites in Nepal.
 
 about__info-name
-Years <br> experience
-Completed <br> project
-Companies <br> worked
+6 Years <br> experience in managing construction sites.
+Completed <br> River Training, Road projects and other multiple projects
+Companies <br> worked 
 
 
 * SERVICES
 services__modal-service
-I develop the user interface.
-Web page development.
-I create ux element interactions.
-I position your company brand.
+test test test
+Under construction
+under construction
 
 
 * PORTFOLIO
 portfolio__description
-Website adaptable to all devices, with ui components and animated interactions.
+What do you need?
 
 
 * PROJECT
@@ -43,8 +42,7 @@ I get a good impression, I carry out my project with all the possible quality an
 
 * FOOTER
 footer__social
-https://www.facebook.com/
-https://www.instagram.com/
-https://twitter.com/
+https://www.facebook.com/0kisn
+https://twitter.com/0kisn
 
 
