@@ -1,5 +1,5 @@
 /*==================== MENU SHOW Y HIDDEN ====================*/
-const navMenu = document.getelementByID('nav-menu'),
+const navMenu = document.getElementByID('nav-menu'),
       navToggle = document.getElementByID('nav-toggle'),
       navClose = document.getElementByID('nav-close')
 
